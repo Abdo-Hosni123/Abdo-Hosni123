@@ -27,11 +27,16 @@ Brief description of Project 2.
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&hide=contribs,issues&count_private=true&hide_title=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdo-Hosni123&show_icons=true&hide=contribs,issues&count_private=true&hide_title=true&theme=radical)
 
 ## 📫 Let's Connect
 
 - [LinkedIn](www.linkedin.com/in/abdelrahman-hosni)
 - [Twitter](link_to_twitter)
+
+## 🚀 Recent Updates
+
+- Published a new project: [Project Name 3](link_to_project_3)
+- Started learning [New Technology/Framework]
 
 Thanks for stopping by! 😊
