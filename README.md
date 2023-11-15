@@ -2,11 +2,11 @@
 
 I'm a passionate software developer who loves coding and building cool things. Welcome to my GitHub profile!
 
-![Coding](https://www.bing.com/images/search?view=detailV2&ccid=15Ck9QYm&id=60C7891A89E1BACDFCBF7DB97D1B2DF407C233F7&thid=OIP.15Ck9QYmcclxb_ofhM_AaAHaE8&mediaurl=https%3a%2f%2fimages.pexels.com%2fphotos%2f1181675%2fpexels-photo-1181675.jpeg%3fcs%3dsrgb%26dl%3dcomputer-connection-data-1181675.jpg%26fm%3djpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d790a4f5062671c9716ffa1f84cfc068%3frik%3d9zPCB%252fQtG325fQ%26pid%3dImgRaw%26r%3d0&exph=4016&expw=6016&q=beutifl+image+about+programming&simid=608019897720662240&FORM=IRPRST&ck=05EEA1498C14ADC4F7C123FC2313BAEA&selectedIndex=0&idpp=overlayview&ajaxhist=0&ajaxserp=0)
+![Coding](https://raw.githubusercontent.com/your-username/your-repository/main/path-to-your-image.jpg)
 
 ## About Me
 
-I am learning at Almdrasa diploma for learning programming, and I am a computer engineer. I am very excited to learn programming and achieve success in my journey.
+I am learning at [Almdrasa](https://almdrasa.com/) diploma for learning programming, and I am a computer engineer. I am very excited to learn programming and achieve success in my journey.
 
 ## 🔧 Technologies & Tools
 
@@ -21,7 +21,7 @@ I am learning at Almdrasa diploma for learning programming, and I am a computer 
 
 ## 🎓 Courses
 
-- [Almdrasa Diploma](link_to_almdrasa_diploma) - I am currently enrolled in the Almdrasa diploma program, learning various aspects of programming and computer science.
+- [Almdrasa Diploma](https://almdrasa.com/) - I am currently enrolled in the Almdrasa diploma program, learning various aspects of programming and computer science.
 - [Course Name 2](link_to_course_2) - Brief description of Course 2.
 - [Course Name 3](link_to_course_3) - Brief description of Course 3.
 
@@ -36,7 +36,7 @@ I am learning at Almdrasa diploma for learning programming, and I am a computer 
 
 ## 🚀 Recent Updates
 
-- Published a new project: [Project Name 3](https://github.com/your_username/link_to_project_3)
+- Published a new project: [Project Name 3](https://github.com/your-username/link_to_project_3)
 - Started learning New Technology/Framework
 
 Thanks for stopping by! 😊
