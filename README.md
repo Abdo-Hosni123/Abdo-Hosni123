@@ -1,6 +1,6 @@
-# Hello there! 👋 I'm Abdelrahman Hosni
+# Hello there! 👋
 
-I'm a passionate software developer who enjoys crafting code and building cool things. Welcome to my GitHub profile!
+<span style="color:#FF5733; font-size:24px;">I am Abdelrahman Hosni</span>, a passionate software developer who enjoys crafting code and building cool things. Welcome to my GitHub profile!
 
 ![Coding](https://raw.githubusercontent.com/your-username/your-repository/main/path-to-your-image.jpg)
 
