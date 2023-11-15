@@ -2,7 +2,7 @@
 
 I'm a passionate software developer who loves coding and building cool things. Welcome to my GitHub profile!
 
-![Coding](https://your-image-hosting-service.com/link_to_beautiful_programming_image)
+![Coding](https://www.bing.com/images/search?view=detailV2&ccid=15Ck9QYm&id=60C7891A89E1BACDFCBF7DB97D1B2DF407C233F7&thid=OIP.15Ck9QYmcclxb_ofhM_AaAHaE8&mediaurl=https%3a%2f%2fimages.pexels.com%2fphotos%2f1181675%2fpexels-photo-1181675.jpeg%3fcs%3dsrgb%26dl%3dcomputer-connection-data-1181675.jpg%26fm%3djpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d790a4f5062671c9716ffa1f84cfc068%3frik%3d9zPCB%252fQtG325fQ%26pid%3dImgRaw%26r%3d0&exph=4016&expw=6016&q=beutifl+image+about+programming&simid=608019897720662240&FORM=IRPRST&ck=05EEA1498C14ADC4F7C123FC2313BAEA&selectedIndex=0&idpp=overlayview&ajaxhist=0&ajaxserp=0)
 
 ## About Me
 
