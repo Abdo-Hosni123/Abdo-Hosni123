@@ -1,96 +1,42 @@
-<!DOCTYPE html>
-<html>
+# Hi there! 👋 I'm Abdelrahman Hosni
 
-<head>
-  <style>
-    body {
-      background-color: #1a1a1a; /* Dark background color */
-      color: #ffffff; /* Light text color */
-      font-family: 'Arial', sans-serif;
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+I'm a passionate software developer who loves coding and building cool things. Welcome to my GitHub profile!
 
-    header {
-      background-color: #2d2d2d; /* Slightly lighter background color for header */
-      padding: 20px;
-      text-align: center;
-    }
+![Coding](https://your-image-hosting-service.com/link_to_beautiful_programming_image)
 
-    main {
-      padding: 20px;
-    }
+## About Me
 
-    .profile-section {
-      border-radius: 10px;
-      overflow: hidden;
-      background-color: #2d2d2d;
-      padding: 20px;
-      margin-bottom: 20px;
-    }
+I am learning at Almdrasa diploma for learning programming, and I am a computer engineer. I am very excited to learn programming and achieve success in my journey.
 
-    .stats-section {
-      border-radius: 10px;
-      overflow: hidden;
-      background-color: #2d2d2d;
-      padding: 20px;
-    }
-  </style>
-</head>
+## 🔧 Technologies & Tools
 
-<body>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-  <header>
-    <h1>Hi there! 👋 I'm Abdelrahman Hosni</h1>
-    <p>I'm a passionate software developer who loves coding and building cool things. Welcome to my GitHub profile!</p>
-  </header>
+## 🎓 Courses
 
-  <main>
+- [Almdrasa Diploma](link_to_almdrasa_diploma) - I am currently enrolled in the Almdrasa diploma program, learning various aspects of programming and computer science.
+- [Course Name 2](link_to_course_2) - Brief description of Course 2.
+- [Course Name 3](link_to_course_3) - Brief description of Course 3.
 
-    <div class="profile-section">
-      <img src="https://your-image-hosting-service.com/link_to_beautiful_programming_image" alt="Coding Image" style="width: 100%; max-width: 500px; border-radius: 10px;">
-      <h2>About Me</h2>
-      <p>I am learning at Almdrasa diploma for learning programming, and I am a computer engineer. I am very excited to learn programming and achieve success in my journey.</p>
-    </div>
+## 📈 GitHub Stats
 
-    <div class="profile-section">
-      <h2>🔧 Technologies & Tools</h2>
-      <!-- Your tech badges here -->
-    </div>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdo-Hosni123&show_icons=true&hide=contribs,issues&count_private=true&hide_title=true&theme=radical)
 
-    <div class="profile-section">
-      <h2>🎓 Courses</h2>
-      <ul>
-        <li><a href="link_to_almdrasa_diploma">Almdrasa Diploma</a> - I am currently enrolled in the Almdrasa diploma program, learning various aspects of programming and computer science.</li>
-        <li><a href="link_to_course_2">Course Name 2</a> - Brief description of Course 2.</li>
-        <li><a href="link_to_course_3">Course Name 3</a> - Brief description of Course 3.</li>
-      </ul>
-    </div>
+## 📫 Let's Connect
 
-    <div class="stats-section">
-      <h2>📈 GitHub Stats</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=Abdo-Hosni123&show_icons=true&hide=contribs,issues&count_private=true&hide_title=true&theme=radical" alt="GitHub Stats">
-    </div>
+- [LinkedIn](www.linkedin.com/in/abdelrahman-hosni)
+- [Twitter](link_to_twitter)
 
-    <div class="profile-section">
-      <h2>📫 Let's Connect</h2>
-      <ul>
-        <li><a href="www.linkedin.com/in/abdelrahman-hosni">LinkedIn</a></li>
-        <li><a href="link_to_twitter">Twitter</a></li>
-      </ul>
-    </div>
+## 🚀 Recent Updates
 
-    <div class="profile-section">
-      <h2>🚀 Recent Updates</h2>
-      <ul>
-        <li>Published a new project: <a href="https://github.com/your_username/link_to_project_3">Project Name 3</a></li>
-        <li>Started learning New Technology/Framework</li>
-      </ul>
-    </div>
+- Published a new project: [Project Name 3](https://github.com/your_username/link_to_project_3)
+- Started learning New Technology/Framework
 
-  </main>
-
-</body>
-
-</html>
+Thanks for stopping by! 😊
